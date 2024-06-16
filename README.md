@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatra052&label=Profile%20views&color=0e75b6&style=flat" alt="yatra052" /> </p>
 
-- 🔭 I’m currently working on **Jetpack Compose**
+- 🔭 I’m currently a **Student**
 
 - 🌱 I’m currently learning **Jetpack Compose, Android Development**
 
